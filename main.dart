@@ -1,0 +1,1 @@
+void main() {} // Simplified, actual content is in canvas
